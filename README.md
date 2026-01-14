@@ -1,6 +1,7 @@
 # 💫 About Me:
 👨‍🎓 I’m currently a Software Engineering student at Tôn Đức Thắng University.<br>
 📊 I aspire to become a Business Analyst with a strong interest in data and business processes.<br>
+💡 I enjoy programming and building IoT projects with embedded systems.<br>
 🎮 In my free time, I enjoy playing games, chatting, and hanging out with friends.<br>
 🌍 I aim to pursue an MSc degree abroad if given the opportunity.
 
