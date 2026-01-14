@@ -1,6 +1,8 @@
 # 💫 About Me:
-👨‍🎓 I’m currently a Software Engineering student at Tôn Đức Thắng University.<br>💻 I’m looking to become a Business Analyst<br>🏃‍♂️ I enjoy playing game, chatting and hanging out.<br>🎓 I aspire to pursue an MSc degree abroad should the opportunity arise.
-
+👨‍🎓 I’m currently a Software Engineering student at Tôn Đức Thắng University.<br>
+📊 I aspire to become a Business Analyst with a strong interest in data and business processes.<br>
+🎮 In my free time, I enjoy playing games, chatting, and hanging out with friends.<br>
+🌍 I aim to pursue an MSc degree abroad if given the opportunity.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/puahuhui) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/puahuhu/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/phuong-tuan-867253367/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nguyenletuanphuongzzz@gmail.com) 
